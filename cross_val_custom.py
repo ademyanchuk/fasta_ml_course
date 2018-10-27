@@ -1,3 +1,7 @@
+"""
+credit to https://github.com/Danila89/cross_validation_custom
+"""
+
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import KFold,StratifiedKFold
